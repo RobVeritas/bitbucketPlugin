@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.atlassian.browsers:firefox:linux64:44.0.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atlassian/browsers/firefox/44.0.2/firefox-44.0.2-linux64.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atlassian/browsers/firefox/44.0.2/firefox-44.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atlassian/browsers/firefox/44.0.2/firefox-44.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

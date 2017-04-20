@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.atlassian.browsers:chrome:linux64:48.0.2564.103">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atlassian/browsers/chrome/48.0.2564.103/chrome-48.0.2564.103-linux64.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atlassian/browsers/chrome/48.0.2564.103/chrome-48.0.2564.103-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atlassian/browsers/chrome/48.0.2564.103/chrome-48.0.2564.103-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
